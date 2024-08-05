@@ -1,0 +1,23 @@
+.dashboard {
+  display: flex;
+  justify-content: center;
+  width: auto;
+  /* padding-top: 2.2vh; */
+}
+
+.dashboard .dashboard__container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.dashboard .dashboard__container .heading__title {
+  font-size: 32px;
+}
+
+.dashboard .dashboard__container .heading__description {
+  font-size: 14px;
+  color: #637587;
+}
+
+/*# sourceMappingURL=dashboard.module.css.map */
